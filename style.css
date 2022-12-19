@@ -12,6 +12,8 @@
         display: flex;
         justify-content: center;
         align-items: center; 
+       background: url(img2.jpg) center;
+       background-size: 100% 100%;
     }
     .cont{
         width: 80%;
@@ -26,8 +28,6 @@
         width: 100%;
         opacity:.4;
         height: 100%;
-        background: url(img2.jpg) center;
-        background-size: 100% 100%;
     }
     #hed {
         font-size: 35px; 
